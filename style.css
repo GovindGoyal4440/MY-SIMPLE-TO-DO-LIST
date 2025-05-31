@@ -65,13 +65,7 @@ li{
     border-radius: 4px;
 }
 
-/* li:last-child{
-    border-bottom: none;
-} */
 
-/* li:last-child { ... }:
-:last-child ek pseudo-class hai jo list ke aakhri <li> element ko select karta hai.
-border-bottom: none;: Aakhri task ke neeche ki line hata dete hain, kyunki woh ajeeb lagegi. */
 
 .delete-btn{
     background-color: brown;
